@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 import java.util.Scanner;
 public class calcu {
@@ -59,3 +60,13 @@ public static int add(int x, int y)
 =======
     }
 >>>>>>> feature/multiplication
+=======
+
+public static int sub(int x, int y)
+    {
+        int result = x-y;
+        return result;
+
+        
+    }
+>>>>>>> feature/subtraction
