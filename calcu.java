@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class calcu {
     public static void main(String[] args)
     {
+<<<<<<< HEAD
         System.out.print("Enter first number:");
         Scanner inp= new Scanner(System.in);
         int num1,num2;
@@ -47,3 +48,10 @@ public static int add(int x, int y)
     
 >>>>>>> feature/addition
 }
+=======
+        int result = x/y;
+        return result;
+
+        
+    }
+>>>>>>> feature/division
