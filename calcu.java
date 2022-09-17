@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.*;
 import java.util.Scanner;
 public class calcu {
@@ -53,3 +54,10 @@ public static int sub(int x, int y)
         return result;
     }
 >>>>>>> feature/subtraction
+=======
+public static int div(int x, int y)
+    {
+        int result = x/y;
+        return result;
+    }
+>>>>>>> feature/division
