@@ -29,7 +29,8 @@ public class calcu {
             default:
                 System.out.println("Illigal Operation");
 
-
+    
+                
                 
 
         }
