@@ -1,6 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 public class oop_main {
     public static void main(String[] args) {
+=======
+public class Person {
+    
+    void display(){
+        System.out.println("Different People");
+
+        
+}
+>>>>>>> OOP/Person
 
         Person p = new Person();
         Student S1 = new Student();
