@@ -50,15 +50,19 @@ public static int add(int x, int y)
 >>>>>>> feature/addition
 }
 =======
-        int result = x/y;
+    public static int add(int x, int y)
+    {
+        int result = x + y;
         return result;
-
-        
-<<<<<<< HEAD
     }
 >>>>>>> feature/division
 =======
+public static int div(int x, int y)
+    {
+        int result = x/y;
+        return result;
     }
+
 >>>>>>> feature/multiplication
 =======
 
