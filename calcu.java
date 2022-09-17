@@ -1,10 +1,8 @@
-
 import java.util.*;
 import java.util.Scanner;
 public class calcu {
     public static void main(String[] args)
     {
-
         System.out.print("Enter first number:");
         Scanner inp= new Scanner(System.in);
         int num1,num2;
@@ -31,41 +29,37 @@ public class calcu {
             default:
                 System.out.println("Illigal Operation");
 
-       
-                
 
         }
 
+        
 
-public static int add(int x, int y)
-{
-    int result = x + y;
-    return result;
-    
-    
 
+    }
     public static int add(int x, int y)
     {
         int result = x + y;
         return result;
     }
 
-public static int div(int x, int y)
+    public static int sub(int x, int y)
+    {
+        int result = x-y;
+        return result;
+    }
+
+
+    public static int mult(int x, int y)
+    {
+        int result = x*y;
+        return result;
+    }
+
+
+    public static int div(int x, int y)
     {
         int result = x/y;
         return result;
     }
 
-
-public static int sub(int x, int y)
-    {
-        int result = x-y;
-        return result;
-<<<<<<< HEAD
-
-        
-    }
-
-=======
-    }
->>>>>>> feature/multiplication
+}
