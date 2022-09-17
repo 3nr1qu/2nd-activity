@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.*;
 import java.util.Scanner;
 public class calcu {
@@ -61,3 +62,10 @@ public static int div(int x, int y)
         return result;
     }
 >>>>>>> feature/division
+=======
+public static int mult(int x, int y)
+    {
+        int result = x*y;
+        return result;
+    }
+>>>>>>> feature/multiplication
