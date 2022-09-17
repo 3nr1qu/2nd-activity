@@ -24,6 +24,6 @@ public class oop_main {
         System.out.println("Last Name : " +W1.getlname());
         System.out.println("Position : " +W1.getdepartment());
         
-
+       
     }
 }
