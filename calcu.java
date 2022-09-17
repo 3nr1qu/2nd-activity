@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 import java.util.*;
 import java.util.Scanner;
 public class calcu {
     public static void main(String[] args)
     {
-<<<<<<< HEAD
+
         System.out.print("Enter first number:");
         Scanner inp= new Scanner(System.in);
         int num1,num2;
@@ -31,42 +31,31 @@ public class calcu {
             default:
                 System.out.println("Illigal Operation");
 
-<<<<<<< HEAD
-=======
-    
-                
+       
                 
 
         }
 
->>>>>>> feature/display
 
-
-=======
 public static int add(int x, int y)
 {
     int result = x + y;
     return result;
     
     
->>>>>>> feature/addition
-}
-=======
+
     public static int add(int x, int y)
     {
         int result = x + y;
         return result;
     }
->>>>>>> feature/division
-=======
+
 public static int div(int x, int y)
     {
         int result = x/y;
         return result;
     }
 
->>>>>>> feature/multiplication
-=======
 
 public static int sub(int x, int y)
     {
@@ -75,4 +64,4 @@ public static int sub(int x, int y)
 
         
     }
->>>>>>> feature/subtraction
+
