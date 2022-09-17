@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class oop_main {
     public static void main(String[] args) {
 
@@ -27,3 +28,12 @@ public class oop_main {
        
     }
 }
+=======
+public class Person {
+    
+    void display(){
+        System.out.println("Different People");
+}
+
+}
+>>>>>>> OOP/Person
