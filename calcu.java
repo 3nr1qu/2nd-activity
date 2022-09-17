@@ -32,14 +32,7 @@ public class calcu {
                 System.out.println("Illigal Operation");
 
 
-<<<<<<< HEAD
-                
 
-        }
-
-
-
-    }
 =======
 public static int add(int x, int y)
 {
