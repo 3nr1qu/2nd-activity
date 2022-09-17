@@ -28,12 +28,3 @@ public class oop_main {
        
     }
 }
-=======
-public class Person {
-    
-    void display(){
-        System.out.println("Different People");
-}
-
-}
->>>>>>> OOP/Person
