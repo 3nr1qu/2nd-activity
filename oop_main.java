@@ -25,5 +25,7 @@ public class oop_main {
         System.out.println("Position : " +W1.getdepartment());
         
        
+
+        
     }
 }
