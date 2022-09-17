@@ -30,6 +30,7 @@ public class calcu {
                 System.out.println("Illigal Operation");
 
 
+<<<<<<< HEAD
                 
 
         }
@@ -37,4 +38,12 @@ public class calcu {
 
 
     }
+=======
+public static int add(int x, int y)
+{
+    int result = x + y;
+    return result;
+    
+    
+>>>>>>> feature/addition
 }
