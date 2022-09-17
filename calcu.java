@@ -53,5 +53,9 @@ public static int add(int x, int y)
         return result;
 
         
+<<<<<<< HEAD
     }
 >>>>>>> feature/division
+=======
+    }
+>>>>>>> feature/multiplication
